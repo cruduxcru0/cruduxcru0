@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @cruduxcru0
-- 👀 I’m interested in x86 assembly, reverse engineering, rendering
+- 👋 Hi, I’m @cruduxcru0. This is my new GitHub acc since the old mudlord acc got lost.
+- 👀 I’m interested in x86 assembly language, reverse engineering, rendering
