@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @cruduxcru0
-- 👀 I’m interested in x86 assembly programming, reverse engineering
+- 👀 I’m interested in x86 assembly, reverse engineering, rendering
